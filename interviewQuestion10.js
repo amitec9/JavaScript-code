@@ -12,4 +12,4 @@ return [res1, res2]
 }
 runPromises()
 .then(res => console.log(res))
-.catch(err => console.log(err))
+.catch(err => console.log(err))//Third
